@@ -1,2 +1,0 @@
-Description: Create a backup of your Video-DVD
-Depends: enigma2, libdvdread, dvdbackup

@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Create a backup of your Video-DVD",
+  "description_recipe": "Create a backup of your Video-DVD",
+  "history_source_dir": "dvdbackup",
+  "internal_package_name": "enigma2-plugin-extensions-dvdbackup",
+  "module_dir_name": "DVDBackup",
+  "output_subdir": "dvdbackup",
+  "package_name": "enigma2-plugin-extensions-dvdbackup",
+  "plugin_src_rel": "dvdbackup",
+  "python_package": "DVDBackup",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "DVDBackup",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
