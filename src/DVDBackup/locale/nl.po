@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-27 21:28+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2013-07-25 16:52+0100\n"
 "Last-Translator: Rob van der Does <robvddoes@gmail.com>\n"
 "Language-Team: Andy Blackburn/Rob van der Does\n"
@@ -19,63 +19,83 @@ msgstr ""
 "X-Poedit-Language: Dutch\n"
 "X-Poedit-Country: NETHERLANDS\n"
 
+#: ../plugin.py:268
 msgid "Abort"
 msgstr "Breek af"
 
+#: ../plugin.py:340
 msgid "Backup"
 msgstr "Backup"
 
+#: ../plugin.py:214
 msgid "Backup of DVD finished."
 msgstr "Backup van DVD gereed"
 
+#: ../plugin.py:460
 msgid "Backup your Video-DVD to your harddisk"
 msgstr "Maak een backup van uw Video-DVD naar uw harde schijf"
 
+#: ../plugin.py:153
 msgid "Could not find any file to backup!"
 msgstr "Kon geen bestanden vinden om te backuppen!"
 
+#: ../plugin.py:156
 msgid "Could not read the DVD informations!"
 msgstr "Kon de DVD informatie niet lezen!"
 
+#: ../plugin.py:352
 msgid "Create iso:"
 msgstr "Creëer ISO:"
 
+#: ../plugin.py:455 ../plugin.py:460
 msgid "DVD Backup"
 msgstr "DVD Backup"
 
+#: ../plugin.py:348
 msgid "Device:"
 msgstr "Medium:"
 
+#: ../plugin.py:349
 msgid "Directory:"
 msgstr "Map:"
 
+#: ../plugin.py:214
 msgid "Duration:"
 msgstr "Duur:"
 
+#: ../plugin.py:214
 msgid "Eject DVD?"
 msgstr "DVD uitwerpen?"
 
+#: ../plugin.py:162 ../plugin.py:192
 msgid "Error while backup of DVD!"
 msgstr "Fout tijdens backup van DVD!"
 
+#: ../plugin.py:341
 msgid "Keyboard"
 msgstr "Toetsenbord"
 
+#: ../plugin.py:342
 msgid "Location"
 msgstr "Lokatie"
 
+#: ../plugin.py:351
 msgid "Log:"
 msgstr "Log:"
 
+#: ../plugin.py:55 ../plugin.py:418
 msgid "Name of DVD"
 msgstr "Naam van DVD"
 
+#: ../plugin.py:350
 msgid "Name:"
 msgstr "Naam:"
 
+#: ../plugin.py:339
 msgid "Progress"
 msgstr "Voortgang"
 
+#: ../plugin.py:197
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"

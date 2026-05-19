@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DVDBackup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: OEA\n"
 "Language-Team: french\n"
@@ -15,63 +15,83 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SearchPath-0: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src\n"
 
+#: ../plugin.py:268
 msgid "Abort"
 msgstr "Annuler"
 
+#: ../plugin.py:340
 msgid "Backup"
 msgstr "Backup"
 
+#: ../plugin.py:214
 msgid "Backup of DVD finished."
 msgstr "Backup du DVD terminé."
 
+#: ../plugin.py:460
 msgid "Backup your Video-DVD to your harddisk"
 msgstr "Backup vos DVD vidéo sur votre disque dur"
 
+#: ../plugin.py:153
 msgid "Could not find any file to backup!"
 msgstr "Impossible de trouver un fichier à backuper!"
 
+#: ../plugin.py:156
 msgid "Could not read the DVD informations!"
 msgstr "Impossible de lire les informations DVD!"
 
+#: ../plugin.py:352
 msgid "Create iso:"
 msgstr "Création ISO:"
 
+#: ../plugin.py:455 ../plugin.py:460
 msgid "DVD Backup"
 msgstr "DVD Backup"
 
+#: ../plugin.py:348
 msgid "Device:"
 msgstr "Périphérique:"
 
+#: ../plugin.py:349
 msgid "Directory:"
 msgstr "Répertoire:"
 
+#: ../plugin.py:214
 msgid "Duration:"
 msgstr "Durée:"
 
+#: ../plugin.py:214
 msgid "Eject DVD?"
 msgstr "Éjecter DVD?"
 
+#: ../plugin.py:162 ../plugin.py:192
 msgid "Error while backup of DVD!"
 msgstr "Erreur lors du backup du DVD!"
 
+#: ../plugin.py:341
 msgid "Keyboard"
 msgstr "Clavier"
 
+#: ../plugin.py:342
 msgid "Location"
 msgstr "Localisation"
 
+#: ../plugin.py:351
 msgid "Log:"
 msgstr "Log:"
 
+#: ../plugin.py:55 ../plugin.py:418
 msgid "Name of DVD"
 msgstr "Nom du DVD"
 
+#: ../plugin.py:350
 msgid "Name:"
 msgstr "Nom:"
 
+#: ../plugin.py:339
 msgid "Progress"
 msgstr "Progression"
 
+#: ../plugin.py:197
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"

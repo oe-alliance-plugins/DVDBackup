@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DVDBackup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2015-10-23 23:30+0200\n"
 "Last-Translator: Hasan Kiran <sunder67@hotmail.com>\n"
 "Language-Team: Turkish <sunder67@hotmail.com>\n"
@@ -16,63 +16,83 @@ msgstr ""
 "X-Generator: Lokalize 2.0\n"
 "X-Poedit-SearchPath-0: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src\n"
 
+#: ../plugin.py:268
 msgid "Abort"
 msgstr "Vazgeç"
 
+#: ../plugin.py:340
 msgid "Backup"
 msgstr "Yedekle"
 
+#: ../plugin.py:214
 msgid "Backup of DVD finished."
 msgstr "DVD yedekleme tamamladı."
 
+#: ../plugin.py:460
 msgid "Backup your Video-DVD to your harddisk"
 msgstr "Sabit diskinize Video-DVD yedekleme"
 
+#: ../plugin.py:153
 msgid "Could not find any file to backup!"
 msgstr "Yedekleme için herhangi bir dosya bulamadık!"
 
+#: ../plugin.py:156
 msgid "Could not read the DVD informations!"
 msgstr "DVD bilgileri okunamadı!"
 
+#: ../plugin.py:352
 msgid "Create iso:"
 msgstr "ISO oluştur:"
 
+#: ../plugin.py:455 ../plugin.py:460
 msgid "DVD Backup"
 msgstr ""
 
+#: ../plugin.py:348
 msgid "Device:"
 msgstr "Aygıt:"
 
+#: ../plugin.py:349
 msgid "Directory:"
 msgstr "Dizin:"
 
+#: ../plugin.py:214
 msgid "Duration:"
 msgstr "Süre:"
 
+#: ../plugin.py:214
 msgid "Eject DVD?"
 msgstr "DVD Çıkart?"
 
+#: ../plugin.py:162 ../plugin.py:192
 msgid "Error while backup of DVD!"
 msgstr "DVD yedeklemesi yaparken hata!"
 
+#: ../plugin.py:341
 msgid "Keyboard"
 msgstr "Klavye"
 
+#: ../plugin.py:342
 msgid "Location"
 msgstr "Konum"
 
+#: ../plugin.py:351
 msgid "Log:"
 msgstr "Günlük:"
 
+#: ../plugin.py:55 ../plugin.py:418
 msgid "Name of DVD"
 msgstr "DVD'nin adı"
 
+#: ../plugin.py:350
 msgid "Name:"
 msgstr "İsim:"
 
+#: ../plugin.py:339
 msgid "Progress"
 msgstr "İlerleme"
 
+#: ../plugin.py:197
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"

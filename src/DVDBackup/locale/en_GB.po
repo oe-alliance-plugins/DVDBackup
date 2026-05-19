@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-27 21:28+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2012-03-16 13:22+0100\n"
 "Last-Translator: Andy Blackburn <andyblac@o2.co.uk>\n"
 "Language-Team: none\n"
@@ -17,63 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../plugin.py:268
 msgid "Abort"
 msgstr "Abort"
 
+#: ../plugin.py:340
 msgid "Backup"
 msgstr "Backup"
 
+#: ../plugin.py:214
 msgid "Backup of DVD finished."
 msgstr "Backup of DVD finished."
 
+#: ../plugin.py:460
 msgid "Backup your Video-DVD to your harddisk"
 msgstr "Backup your Video-DVD to your hard disk"
 
+#: ../plugin.py:153
 msgid "Could not find any file to backup!"
 msgstr "Could not find any file to backup!"
 
+#: ../plugin.py:156
 msgid "Could not read the DVD informations!"
 msgstr "Could not read the DVD informations!"
 
+#: ../plugin.py:352
 msgid "Create iso:"
 msgstr "Create iso:"
 
+#: ../plugin.py:455 ../plugin.py:460
 msgid "DVD Backup"
 msgstr "DVD Backup"
 
+#: ../plugin.py:348
 msgid "Device:"
 msgstr "Device:"
 
+#: ../plugin.py:349
 msgid "Directory:"
 msgstr "Directory:"
 
+#: ../plugin.py:214
 msgid "Duration:"
 msgstr "Duration:"
 
+#: ../plugin.py:214
 msgid "Eject DVD?"
 msgstr "Eject DVD?"
 
+#: ../plugin.py:162 ../plugin.py:192
 msgid "Error while backup of DVD!"
 msgstr "Error while backup of DVD!"
 
+#: ../plugin.py:341
 msgid "Keyboard"
 msgstr "Keyboard"
 
+#: ../plugin.py:342
 msgid "Location"
 msgstr "Location"
 
+#: ../plugin.py:351
 msgid "Log:"
 msgstr "Log:"
 
+#: ../plugin.py:55 ../plugin.py:418
 msgid "Name of DVD"
 msgstr "Name of DVD"
 
+#: ../plugin.py:350
 msgid "Name:"
 msgstr "Name:"
 
+#: ../plugin.py:339
 msgid "Progress"
 msgstr "Progress"
 
+#: ../plugin.py:197
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"
